@@ -1,3 +1,5 @@
+Forked from Gene Kogan's ml4a guides: https://github.com/ml4a/ml4a-guides
+
 ### ml4a-guides
 
 These guides accompany the chapters of [ml4a.github.io](http://ml4a.github.io), providing a series of pre-baked code samples, IPython notebooks, and markdown-based tutorials guiding the interested reader in how to practically work with some of the algorithms described by ml4a.
