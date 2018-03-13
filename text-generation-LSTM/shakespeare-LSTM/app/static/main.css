@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Nova+Mono');
+
+.hidden {
+    display: none;
+}
+
+.indent {
+    margin-left: 20px;
+}
+
+#hidden-seeds {
+    display: none;
+}
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 2rem;
+}
+
+.media-border {
+    padding-left: 5px;
+}
+
+.top-jumbo {
+    padding-bottom: 32px;
+}
+
+h1 {
+    font-family: 'Nova Mono', sans-serif;
+    text-shadow: 2px 2px 2px #777;
+}
+
+.title-span {
+    color: #fff;
+    font-family: 'Nova Mono', sans-serif
+}
+
+.robo-text {
+    font-family: 'Nova Mono', sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #777;
+ }
