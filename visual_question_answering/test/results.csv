@@ -1,0 +1,9 @@
+,Unnamed: 0,image,question_id,question,image_file,answer
+0,0,landscape.jpg,1,are there mountains in this picture,./test/images/landscape.jpg,yes
+1,1,tennis.jpg,2,what game is this man playing,./test/images/tennis.jpg,tennis
+2,2,horses.jpg,3,how many horses can be seen,./test/images/horses.jpg,2
+3,3,bear.jpeg,4,what is that animal,./test/images/bear.jpeg,bear
+4,4,bear.jpeg,5,what is the bear doing,./test/images/bear.jpeg,swimming
+5,5,soccer.JPG,6,what is the color of her shirt,./test/images/soccer.JPG,pink
+6,6,cars.jpg,7,where was this picture taken,./test/images/cars.jpg,airport
+7,7,friends.jpg,8,what are they doing,./test/images/friends.jpg,eating
